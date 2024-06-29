@@ -1,4 +1,4 @@
-/* Aplicando estilos al elemento body*/
+/* Aplicando estilos al elemento body */
 body{
 
 
@@ -6,7 +6,7 @@ background-color: black;
 
 }
 
-/* Aplicando estilos para la tabla, celda y título de la tabla*/
+/* Aplicando estilos para la tabla, celda y título de la tabla */
 table , caption , th , td{
 
     color: white;

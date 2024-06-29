@@ -15,7 +15,7 @@ function marcarBoton(boton) {
     
     pantalla.value = pantalla.value + boton;
     
-    }
+}
 
 //Definimos una funcion para cambiar el signo
 function cambiarSigno() {
@@ -64,7 +64,7 @@ function calcular() {
 }
 
 //Definimos una función para el porcentaje
-function porcentaje(){
+function porcentaje() {
 
     segundoNumero = Number(pantalla.value);
     limpiarPantalla();
